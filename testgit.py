@@ -1,0 +1,1 @@
+print("thăng này hài vãi")
